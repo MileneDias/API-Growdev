@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.cabecalho{
+    background-color: darkcyan;
+    height: 70px;
+}
+
+.quebra{
+    height: 30px;
+}
